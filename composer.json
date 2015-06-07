@@ -4,7 +4,7 @@
     "type": "magento-module",
     "description": "Advanced Template Hints for Magento",
     "homepage": "http://www.fabrizio-branca.de/magento-advanced-template-hints-20.html",
-    "require": {
+    "suggest": {
         "magento-hackathon/magento-composer-installer": "*"
     },
     "replace": {
